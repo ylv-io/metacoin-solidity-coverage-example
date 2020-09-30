@@ -1,0 +1,1 @@
+# metacoin-solidity-coverage-example
